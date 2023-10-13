@@ -1,0 +1,224 @@
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\admission_commision.exe.config
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\admission_commision.exe
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\admission_commision.pdb
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.AssemblyReference.cache
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.SuggestedBindingRedirects.cache
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\obj\Debug\admission_commision.Properties.Resources.resources
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.GenerateResource.cache
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.CoreCompileInputs.cache
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\obj\Debug\admission_commision.exe
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\obj\Debug\admission_commision.pdb
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\obj\Debug\admission_commision.admission_com.resources
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\obj\Debug\admission_commision.educational_programs.resources
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\obj\Debug\admission_commision.entry.resources
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\obj\Debug\admission_commision.Registration.resources
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\Google.Protobuf.dll
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\MySql.Data.dll
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\System.Buffers.dll
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\System.Memory.dll
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\Google.Protobuf.pdb
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\Google.Protobuf.xml
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\MySql.Data.xml
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\System.Buffers.xml
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\System.Memory.xml
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.CopyComplete
+C:\Users\dealk\OneDrive\Рабочий стол\ComissionApp\admission_commision\obj\Debug\admission_commision.about_usForm.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.AssemblyReference.cache
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.SuggestedBindingRedirects.cache
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.entry.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.Properties.Resources.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.GenerateResource.cache
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.CoreCompileInputs.cache
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.exe
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.pdb
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\admission_commision.exe.config
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\admission_commision.exe
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\admission_commision.pdb
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\Google.Protobuf.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\MySql.Data.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\System.Buffers.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\System.Memory.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\Google.Protobuf.pdb
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\Google.Protobuf.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\MySql.Data.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\System.Buffers.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\System.Memory.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.CopyComplete
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EnterPro.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditPro.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.AddPro.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.aboutUs.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.Registr.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.AdmissionCom.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EducPrograms.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.AddDoc.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditDoc.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.AddPrivilege.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditEge.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.AddEge.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditPrivilege.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.StudyApp.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditExamsAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditPrivilegeAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditUsersAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditResultExamsAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditFacultiesAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditDepartmentsAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditSpecAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.AddSpecAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditAppAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.AddDirectionAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\admission_commision.exe.config
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\admission_commision.exe
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\admission_commision.pdb
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\Google.Protobuf.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\MySql.Data.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\System.Buffers.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\System.Memory.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\Google.Protobuf.pdb
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\Google.Protobuf.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\MySql.Data.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\System.Buffers.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\System.Memory.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.AssemblyReference.cache
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.SuggestedBindingRedirects.cache
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.AboutUs.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.AddDirectionAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.AddDoc.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.AddPrivilege.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.AddSpecAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditAppAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditDepartmentsAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditExamsAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditFacultiesAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditPrivilegeAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditResultExamsAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditSpecAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditUsersAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.StudyApp.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.AdmissionCom.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditDoc.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditEge.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditPrivilege.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EditPro.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EducPrograms.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.AddEge.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.Entry.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.EnterPro.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.AddPro.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.Properties.Resources.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.Registr.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.GenerateResource.cache
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.CoreCompileInputs.cache
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.CopyComplete
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.exe
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проекты\ComissionApp\admission_commision\obj\Debug\admission_commision.pdb
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\admission_commision.exe.config
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\admission_commision.exe
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\admission_commision.pdb
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\Google.Protobuf.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\MySql.Data.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\System.Buffers.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\System.Memory.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\Google.Protobuf.pdb
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\Google.Protobuf.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\MySql.Data.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\System.Buffers.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\System.Memory.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.AssemblyReference.cache
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.SuggestedBindingRedirects.cache
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.AboutUs.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.AddDirectionAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.AddDoc.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.AddPrivilege.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.AddSpecAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.EditAppAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.EditDepartmentsAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.EditExamsAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.EditFacultiesAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.EditPrivilegeAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.EditResultExamsAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.EditSpecAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.EditUsersAdmin.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.StudyApp.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.AdmissionCom.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.EditDoc.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.EditEge.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.EditPrivilege.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.EditPro.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.EducPrograms.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.AddEge.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.Entry.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.EnterPro.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.AddPro.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.Properties.Resources.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.Registr.resources
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.GenerateResource.cache
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.CoreCompileInputs.cache
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.csproj.CopyComplete
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.exe
+C:\Users\dealk\OneDrive\Рабочий стол\Учеба Даня\Проект БД Приемная комиссия\ComissionApp\admission_commision\obj\Debug\admission_commision.pdb
